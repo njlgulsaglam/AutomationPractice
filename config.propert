@@ -1,0 +1,5 @@
+#this is my comment
+#properties can be seperated by = sign
+Url = "http://automationpractice.com/index.php"
+User = waya@IOreak.net
+Password = password

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28630" started-at="2018-07-16T06:23:16Z" finished-at="2018-07-16T06:23:45Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28630" started-at="2018-07-16T06:23:16Z" finished-at="2018-07-16T06:23:45Z">
+      <class name="automation.AutomationPractice">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:automation.AutomationPractice@57baeedf]" name="setUp" is-config="true" duration-ms="9743" started-at="2018-07-16T06:23:16Z" finished-at="2018-07-16T06:23:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="test1()[pri:1, instance:automation.AutomationPractice@57baeedf]" name="test1" duration-ms="2020" started-at="2018-07-16T06:23:26Z" finished-at="2018-07-16T06:23:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method status="PASS" signature="testContactUs()[pri:2, instance:automation.AutomationPractice@57baeedf]" name="testContactUs" duration-ms="6073" started-at="2018-07-16T06:23:28Z" finished-at="2018-07-16T06:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testContactUs -->
+        <test-method status="PASS" signature="testFindGlove()[pri:3, instance:automation.AutomationPractice@57baeedf]" name="testFindGlove" duration-ms="3339" started-at="2018-07-16T06:23:34Z" finished-at="2018-07-16T06:23:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFindGlove -->
+        <test-method status="PASS" signature="login()[pri:5, instance:automation.AutomationPractice@57baeedf]" name="login" duration-ms="7422" started-at="2018-07-16T06:23:37Z" finished-at="2018-07-16T06:23:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- automation.AutomationPractice -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
